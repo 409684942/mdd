@@ -165,7 +165,7 @@
         js:false,
         animation:'fade',
         activeIndex:0,
-        interval:4
+        interval:4000
     });
 
     // todays-slider
@@ -176,7 +176,7 @@
         js:false,
         animation:'slide',
         activeIndex:0,
-        interval:4
+        interval:4000
     });
 
     // floor
